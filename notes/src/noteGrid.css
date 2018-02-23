@@ -1,0 +1,15 @@
+.activeLi{
+    border: 2px solid cadetblue;
+}
+.WhiteNote{
+   background-color: aliceblue;
+}
+.GreenNote{
+    background-color: darkseagreen;
+}
+.OrangeNote{
+    background-color: lightsalmon;
+}
+.BlueNote{
+    background-color: lightblue;
+}
